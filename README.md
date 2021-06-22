@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoosha, I’m a student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.  
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++ and Java languages.
-- 📫 How to reach me: Instagram @antoosha, Telegram @offoppa.
+- 📫 How to reach me: Instagram @antoosha, Telegram @offoppa, e-mail akorol6969@gmail.com
 
 <!---
 antoosha/antoosha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
