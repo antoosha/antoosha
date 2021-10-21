@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoosha, I’m a student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.  
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java language.
+- 🌱 I’m currently learning Java language and other Java technologies.
 - 🌱 I already know a pretty good level C and C++ languages, SQL and data structures.
 - 📫 How to reach me: Telegram @offoppa, e-mail akorol6969@gmail.com
 
