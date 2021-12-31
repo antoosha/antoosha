@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoosha, I’m a student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.  
 - 👀 I’m interested in programming.
 - 🌱 I work as Java Backend Developer.
-- 🌱 I use Java, String Boot, SQL and other Java backend technologies.
+- 🌱 I use Java, Spring Boot, SQL and other Java backend technologies.
 - 📫 How to reach me: Telegram @offoppa, e-mail akorol6969@gmail.com
 
 <!---
