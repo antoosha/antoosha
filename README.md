@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @antoosha, I’m a student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.  
+- 👋 Hi, I’m @antoosha.
+-  :mortar_board: I’m bachelor graduated student of Czech Technical University in Prague (CTU) Faculty Infromation Technologies.  
 - 👀 I’m interested in Java Backend Developing and Software Architecture.
 - 🌱 I work as Java Backend Developer at the project with Spring Boot and Microservices.
 - 🌱 I use Java Core, Spring Boot, Spring Cloud, Spring Security and other Java backend technologies.
